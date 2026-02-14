@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on programming a headset device to record heart rate 
+- 🔭 I’m currently working on an Android Health Monitoring App 
 - 🌱 I’m currently learning
   Software Languages:
       - Kotlin
